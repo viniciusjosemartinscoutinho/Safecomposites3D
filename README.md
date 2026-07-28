@@ -33,7 +33,11 @@
 
 
 
-<video src="./assets/safecomposites3d-demo.mp4" controls width="800" poster="[./assets/safecomposites3d-preview.gif](https://github.com/user-attachments/assets/995f591f-1998-4b36-ba52-91b04a29fe86)">
+
+
+
+
+<video src="https://github.com/user-attachments/assets/1562f350-98ca-4c8c-b167-3cbe802bc37e" controls width="800" poster="[./assets/safecomposites3d-preview.gif](https://github.com/user-attachments/assets/995f591f-1998-4b36-ba52-91b04a29fe86)">
   Your browser does not support HTML5 video. <a href="./assets/safecomposites3d-demo.mp4">Download the video here</a>.
 </video>
 
