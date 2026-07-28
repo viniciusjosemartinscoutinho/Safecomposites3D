@@ -11,7 +11,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython/)
 [![Theory](https://img.shields.io/badge/Method-Classical%20Laminate%20Theory-orange?style=for-the-badge)](#why-safecomposites3d)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#license)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](#license)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#getting-started)
 
 [Getting Started](#getting-started) •
@@ -192,7 +192,7 @@ Contributions, issues, and feature requests are welcome. If you're an engineer w
 
 ## License
 
-Safecomposites3D is licensed under the **MIT License**. See [`LICENSE`](./LICENSE) for the full text.
+Safecomposites3D is licensed under the **Apache License 2.0**. See [`LICENSE`](./LICENSE) for the full text.
 
 ---
 
