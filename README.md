@@ -62,6 +62,17 @@
 </div>
 
 The laminate above is **[0°/0°/0°/90°]** — four layers, and unlike the quasi-isotropic benchmark, **not symmetric** about the mid-plane. A single, simple tension load was applied — nothing exotic — and the global strain plot tells the real story: **Epsilon_yy**, the strain *perpendicular* to the applied tension, comes out with **opposite signs at the top and bottom of the laminate** (positive on one face, negative on the other). That sign flip through the thickness is the signature of a real **bending-torsion coupling strain/stress** — the laminate doesn't just stretch, it curves/twists out of plane in a direction the applied load was never supposed to produce, purely because the stacking sequence is asymmetric.
+<div align="center">
+
+<img src="./assets/example_bending_torsion_0-0-0-90.jpg" alt="Safecomposites3D — global strain result showing bending-torsion coupling in an asymmetric 0/0/0/90 laminate" width="800"/>
+
+*Global strain result for an asymmetric [0°/0°/0°/90°] laminate under a simple in-plane tension load, computed by Safecomposites3D.*
+
+</div>
+
+---
+
+This is exactly the kind of failure mode that is easy to miss...
 
 This is exactly the kind of failure mode that is easy to miss on paper and expensive to discover late — normally it only shows up once an engineering team has already built a full FEM model, meshed it, and pushed it through a mesh-convergence study, a process that routinely takes **weeks** for a single stacking sequence. With Safecomposites3D, the same laminate — same material data, same geometry, same load — is checked in **about 1 second**, and the coupling is visible immediately in the global strain plot, before a single mesh is ever built.
 
