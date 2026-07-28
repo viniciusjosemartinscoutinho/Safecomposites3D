@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img src="./assets/example_bending_torsion_0-0-0-90.jpg" alt="Safecomposites3D — global strain result showing bending-torsion coupling in an asymmetric 0/0/0/90 laminate" width="800"/>
+<img src="./assets/example_bending_torsion_0-0-0-90.png" alt="Safecomposites3D — global strain result showing bending-torsion coupling in an asymmetric 0/0/0/90 laminate" width="800"/>
 
 *Global strain result for an asymmetric [0°/0°/0°/90°] laminate under a simple in-plane tension load, computed by Safecomposites3D.*
 
