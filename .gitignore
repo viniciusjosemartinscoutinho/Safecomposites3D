@@ -1,0 +1,14 @@
+﻿# Ignorar packages inuteis em qualquer lugar
+__pycache__/
+**/__pycache__/
+
+build/
+**/build/
+
+dist/
+**/dist/
+
+keys.txt
+**/keys.txt
+
+
